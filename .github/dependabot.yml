@@ -6,18 +6,18 @@ updates:
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: fix(MY-APP): My custom pr title siema
+      prefix: "fix(MY-APP): My custom pr title siema"
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: fix(MY-APP): My custom pr title siema
+      prefix: "fix(MY-APP): My custom pr title siema"
 
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: fix(MY-APP): My custom pr title siema
+      prefix: "fix(MY-APP): My custom pr title siema"
 
